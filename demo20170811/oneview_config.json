@@ -1,0 +1,9 @@
+{
+  "ip": "<OV_appliance_ip>",
+  "credentials": {
+    "userName": "<OV_user>",
+    "password": "<OV_pwd>"
+  },
+  "image_streamer_ip": "",
+  "api_version": 300
+}
